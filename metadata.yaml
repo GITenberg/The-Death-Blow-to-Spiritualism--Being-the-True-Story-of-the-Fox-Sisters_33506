@@ -1,0 +1,28 @@
+_repo: The-Death-Blow-to-Spiritualism--Being-the-True-Story-of-the-Fox-Sisters_33506
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33506-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Davenport, Reuben Briggs
+    gutenberg_agent_id: '36444'
+    url: http://www.gutenberg.org/2009/agents/36444
+description: ''
+gutenberg_issued: '2010-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33506'
+  lccn: '2007581527'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Jencken, Catherine Fox, 1836-1892'
+- !lcsh 'Spiritualism'
+- !lcsh 'Mediums -- New York (State) -- Rochester'
+- !lcsh 'Fox, Margaret, 1833-1893'
+title: 'The Death-Blow to Spiritualism: Being the True Story of the Fox Sisters'
+url: http://www.gutenberg.org/ebooks/33506
